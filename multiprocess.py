@@ -17,7 +17,7 @@ fi_url_sina['performance'] = 'http://vip.stock.finance.sina.com.cn/q/go.php/vFin
 # fi_url_sina['incomedetail'] = 'http://vip.stock.finance.sina.com.cn/q/go.php/vFinanceAnalyze/kind/incomedetail/index.phtml'
 
 def excute_1(table):
-    start_year = 2005
+    start_year = 2013
     end_year = 2017
     frist_quarter = 1
     end_quarter = 4
